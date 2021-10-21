@@ -1,1 +1,0 @@
-# favelaMix_app
