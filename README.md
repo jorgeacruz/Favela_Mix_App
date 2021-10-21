@@ -6,3 +6,19 @@
 
 # UI / UX
 
+
+# Libraries
+## Install react-natve-swiper
+#### https://github.com/leecade/react-native-swiper
+<br>
+
+## Install Stack Navigation
+#### https://reactnavigation.org/docs/native-stack-navigator/
+<br>
+
+## Install TabBottomNavigation
+### https://reactnavigation.org/docs/tab-based-navigation/
+<br>
+
+## Install Vector-Icons
+### https://github.com/oblador/react-native-vector-icons
