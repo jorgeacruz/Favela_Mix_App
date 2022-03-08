@@ -2,7 +2,7 @@
 
 ## About the project
 
-#### This so special project to me, because i decided turn over the key of my carrer. Putting my knowledge to make an app to my friends (Natália and his husband ). The Favela Mix Burger App.
+#### This is special project to me, because i did decide turn the key of my career. Putting my knowledge to make an app to my friends (Natália and his husband ). Welcome to Favela Mix Burger App.
 
 
 ## UI / UX
