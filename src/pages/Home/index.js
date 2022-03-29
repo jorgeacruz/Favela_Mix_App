@@ -19,13 +19,13 @@ const navigation = useNavigation();
      </View>
      <Swiper autoplay={true} autoplayTimeout={4.0} showsPagination={false}>
       <View>
-       <Image source={require('./imgs/burger.jpg')} style={style.imgBuger}/>
+       <Image source={require('./images/burger2.jpg')} style={style.imgBuger}/>
       </View>
       <View>
-       <Image source={require('./imgs/b1.jpg')} style={style.imgBuger}/>
+       <Image source={require('./images/burger2.jpg')} style={style.imgBuger}/>
       </View>
        <View>
-       <Image source={require('./imgs/b2.jpg')} style={style.imgBuger}/>
+       <Image source={require('./images/burger2.jpg')} style={style.imgBuger}/>
        </View>
      </Swiper>
 
